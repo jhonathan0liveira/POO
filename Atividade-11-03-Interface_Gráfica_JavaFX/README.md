@@ -494,13 +494,13 @@ public class AppController implements Initializable {
 
   O menu de criação de jogadores contém dois campos: um **campo de texto** para definição do nome do jogador e uma **caixa de escolha** que permite selecionar uma entre três classes: **Mago**, **Guerreiro** ou **Arqueiro**. Além disso, possui os botões **Salvar**, **Limpar** e **Atualizar**.
 
-  ![](Imagem.AplicaçãoJavaFX.png)
+  ![](Imagem_AplicaçãoJavaFX.png)
 
   ### Criando um novo Jogador
 
  Após digitar um nome e selecionar a classe desejada, basta clicar no botão **Salvar** e o jogador será armazenado na tabela.
 
-![](Imagem_CriandonovoJogador.png)
+![](Imagem_CriandoNovoJogador.png)
 
 Em seguida, ao selecionar a aba **Tabela**, será possível visualizar a listagem com o novo jogador criado.
 
