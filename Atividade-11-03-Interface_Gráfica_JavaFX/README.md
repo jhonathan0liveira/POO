@@ -517,3 +517,12 @@ Caso o objetivo seja alterar os dados de um jogador existente, basta selecioná-
 ![](Imagem_AlterandoRegistro.png)
 
 ![](Imagem_TabelaAtualizada.png)
+
+## Como Executar o Projeto
+
+1. Clone ou baixe este repositório em seu computador.
+2. Abra o **BlueJ** e selecione **Project → Open Project**, escolhendo a pasta raiz desta atividade.
+3. Certifique-se de que o suporte ao **JavaFX** está ativado no BlueJ (*Tools → Preferences → Libraries*) e que as bibliotecas **ORMLite** e **SQLite JDBC** estão configuradas no projeto.
+4. Clique em **Compile** para compilar todas as classes dos pacotes `model`, `view` e `controller`.
+5. No pacote `controller`, clique com o botão direito sobre a classe **`AppController`** e execute o método **`void main(String[] args)`**.
+

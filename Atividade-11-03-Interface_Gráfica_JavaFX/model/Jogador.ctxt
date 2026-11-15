@@ -1,0 +1,14 @@
+#BlueJ class context
+#Sun Nov 15 15:40:54 BRT 2026
+comment0.target=Jogador
+comment1.target=Jogador()
+comment2.target=int getId()
+comment3.params=id
+comment3.target=void setId(int)
+comment4.target=java.lang.String getNome()
+comment5.params=nome
+comment5.target=void setNome(java.lang.String)
+comment6.target=java.lang.String getClasse()
+comment7.params=classe
+comment7.target=void setClasse(java.lang.String)
+numComments=8
